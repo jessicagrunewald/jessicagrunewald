@@ -23,16 +23,10 @@
 ![Microsoft Excel](https://img.shields.io/badge/-MicrosoftExcel-05122A?style=flat&logo=microsoftexcel)&nbsp;
 ![Google Sheets](https://img.shields.io/badge/-GoogleSheets-05122A?style=flat&logo=googlesheets)&nbsp;
 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jessicagrunewald&show_icons=true&locale=en&layout=compact" alt="jessicagrunewald"/></p></br></br>
+</br></br></br></br>
 
-
-<br>
-
-###
 <div> 
   <a href="https://instagram.com/_grunewald" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jessicagrunewald" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-
-
-
-
